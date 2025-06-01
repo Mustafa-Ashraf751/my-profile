@@ -56,12 +56,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafaashraf751&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaashraf751&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Ashraf751&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Ashraf751&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaashraf751&theme=tokyonight" alt="mustafaashraf751" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Ashraf751&theme=tokyonight" alt="mustafaashraf751" />
 </div>
 
 ## 🏆 Featured Projects
