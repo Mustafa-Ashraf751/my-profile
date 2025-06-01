@@ -57,12 +57,9 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Ashraf751&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Ashraf751&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Ashraf751&theme=tokyonight" alt="mustafaashraf751" />
-</div>
+
 
 ## 🏆 Featured Projects
 
@@ -130,10 +127,4 @@
 
 ---
 
-<div align="center">
 
-### 💫 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=mustafaashraf751&color=blue&style=flat-square&label=Profile+Views)
-
-</div>
